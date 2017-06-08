@@ -3,7 +3,7 @@
 ## Laravel
 
 ### Docs:
-* [https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/](Repository pattern)
+* [Repository pattern](https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/)
 
 ## Docker
 ## Repository pattern:
